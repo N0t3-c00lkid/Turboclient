@@ -16,3 +16,4 @@ this is what you must do to run this client properly
 if you still thinks this is a token stealers
 you can check the .sb3 file
 (disclaimer: if u didnt do one of the steps, the program might wont working properly)
+(disclaimer: the program itself might be crappy too cuz i havent tested it yet)
